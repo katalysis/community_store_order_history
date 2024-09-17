@@ -1,7 +1,7 @@
 <?php
 namespace  Concrete\Package\CommunityStoreOrderHistory\Src;
 defined('C5_EXECUTE') or die('Access Denied.');
-use Concrete\Package\CommunityStore\Src\CommunityStore\Order\OrderList as OL;
+use Concrete\Package\CommunityStoreOrderHistory\Src\Order\OrderList as OL;
 use Concrete\Core\Support\Facade\Application;
 use Doctrine\DBAL\Query\QueryBuilder;
 
